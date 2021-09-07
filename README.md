@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @alexa-sicilian
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning sql.
 - 📫 Reach me at alexasicilian@gmail.com
 
 <!---
